@@ -1,4 +1,4 @@
-### Hi 🙌 
+### Hi 👋
 
 I am a Full-Stack Web developer specialized in JavaScript technologies. Interested in working with teams that encourage growth and accountability. ✨
 
