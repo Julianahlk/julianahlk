@@ -2,8 +2,8 @@
 
 I am a Full-Stack Web developer specialized in JavaScript technologies.
 
-- 🔭 I’m currently working on a project called MyPlaces
-- 📚 Learning about Web3 and crypto
+- 🔭 I’m currently working at [Colony](https://colony.io/)
+- 📚 Working on building the future
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/juliana-halko/)
 - 😄 Pronouns: she/her
 
